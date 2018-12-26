@@ -45,7 +45,7 @@ pygmentsOptions = "linenos=true"
     posts_list_header = "Posts"
 
     # used date format
-    date_format = '02.01.2006'
+    date_format = 'January 2, 2006'
 
 [params.theme]
     inverse = false     # indicating if the theme should use inversed colors
