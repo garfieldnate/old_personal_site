@@ -3,6 +3,10 @@ languageCode = "en-US"
 title = "Garfield Nate"
 theme = "hugo-multi-bootswatch"
 
+pygmentsCodefences = true
+pygmentsStyle = "colorful"
+pygmentsOptions = "linenos=true"
+
 [permalinks]
     # Same one Jekyll/Octopress uses by default.
     post = "/blog/:year/:month/:day/:title/"
