@@ -28,6 +28,7 @@ pygmentsOptions = "linenos=true"
 
     # social links, used in footer, these must be full URLs.
     github      = "https://github.com/garfieldnate"
+    goodreads      = "https://www.goodreads.com/user/show/2794644-nathan-glenn"
 
     # show default summaries on the frontpage or not
     use_summaries = false
