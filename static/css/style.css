@@ -5,3 +5,7 @@
 .highlight {
     margin-bottom: 1em;
 }
+
+img, iframe {
+    max-width: 100%
+}
