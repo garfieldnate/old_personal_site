@@ -20,7 +20,7 @@ They go about this by studying two aspects of the machine: the hardware and the 
 
 Observing the software, on the other hand, is much less complicated because all they have to do is turn it on. Let's just say Will Robinson's computer was a futuristic Mac of some sort. Then turning it on greets the scientists with a welcome screen and then Will's desktop:
 
-{{< figure class="center" src="/images/content_images/wills_desktop.jpg" alt="Screenshot of Will's Mac desktop">}}
+{{< figure class="center" src="/images/content_images/wills_desktop.jpg" title="Will's desktop. Sure, it looks normal to us now..." alt="Screenshot of Will's Mac desktop. The dock, several desktop icons, and several open windows are visible.">}}
 
 The scientists are intrigued by the fact that the computer can do all sorts of complicated things, like play music and videos, compress files, typeset documents and manage large spreadsheets seemingly without doing any work. Putting it in perspective, their own computers look like [this](http://www.computersciencelab.com/ComputerHistory/HistoryPt3.htm). They can surmise basically that there is one central system called *OS-X* that runs everything else, and that each of the functions run in separate programs. They learn that each of the programs run in a window, that programs are made up of more basic functions such as file management and that certain things are impossible, like creating files with "?" in the name.
 
@@ -34,7 +34,7 @@ Now, what does all of this have to do with cognitive modeling?
 
 Wait, what *is* cognitive modeling? To explain that, we first need a few definitions:
 
-* **Cognition**: the excercise of human intelligence, including both deliberation and action, and performance of the wide variety of tasks that humans participate in.
+* [**Cognition**](https://en.wikipedia.org/wiki/Cognition): the excercise of human intelligence, including both deliberation and action, and performance of the wide variety of tasks that humans participate in.
 
 * [**Cognitive Science**](http://en.wikipedia.org/wiki/Cognitive_science): the study of minds as information processors, including how information is processed, represented, and transformed.
 

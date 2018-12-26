@@ -23,4 +23,4 @@ The verb  ["yagaru"] attaches to the base II or connective form of verbs and add
 
 Both of these forms are used when yelling at or cursing some entity.
 
-I personally don't use them a lot, but they are very common in anime, probably because of the dramatic nature. [Here's](http://www.youtube.com/watch?v=UWKg_E3mWsw) an example for やがる. It's the last word the villain says (besides きら, a sparkly sound akin to "bwing" or "bling"). Note that the subtitle should be "Remember this!", not "I'll remember this!".
+I personally don't use them a lot, but they are very common in anime, probably because of the dramatic nature. [Here's](http://www.youtube.com/watch?v=UWKg_E3mWsw) an example for やがる. It's the last word the villain says (besides キラーン, a sparkly sound akin to "bwing" or "bling"). Note that the subtitle should be "Remember this!", not "I'll remember this!".

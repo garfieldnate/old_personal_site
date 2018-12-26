@@ -14,5 +14,5 @@ Recently I was excited to find that a Japanese stackexchange beta site was ready
 Anyway, I just wanted to put in a good word for the new [Japanese stackexchange](http://japanese.stackexchange.com/) site. If it doesn't get enough traffic it will be shut down, so tell everyone you know who wants to learn Japanese to start asking questions! Or, if you know Japanese, start answering. The best way to learn is to teach. Plus you get this cool banner:
 
 <a href="http://japanese.stackexchange.com/users/24/nate-glenn">
-    {{< figure class="fig-center" src="http://japanese.stackexchange.com/users/flair/24.png#center" alt="profile for Nate Glenn at Japanese Language and Usage, Q&A for students, teachers, and linguists wanting to discuss the finer points of the Japanese language" >}}
+    {{< figure class="center" src="http://japanese.stackexchange.com/users/flair/24.png#center" alt="profile for Nate Glenn at Japanese Language and Usage, Q&A for students, teachers, and linguists wanting to discuss the finer points of the Japanese language" >}}
 </a>

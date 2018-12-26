@@ -1,4 +1,5 @@
 # TODO
 
 * Consider switching to hugo-academic
-* Send theme PR to update version of font-awesome
+* Link to blog repo
+* The GoSen post really needs an update
