@@ -1,4 +1,4 @@
-baseurl = "http://garfieldnate.github.io/"
+baseurl = "https://garfieldnate.github.io/"
 languageCode = "en-US"
 title = "Nate Glenn's Blog"
 theme = "hugo-multi-bootswatch"
