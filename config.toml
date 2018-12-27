@@ -1,6 +1,6 @@
 baseurl = "http://garfieldnate.github.io/"
 languageCode = "en-US"
-title = "Garfield Nate"
+title = "Nate Glenn's Blog"
 theme = "hugo-multi-bootswatch"
 
 pygmentsCodefences = true
