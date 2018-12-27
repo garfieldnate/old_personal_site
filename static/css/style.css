@@ -1,11 +1,20 @@
-.center {
-    text-align: center;
-}
-
+/* Add some space after code blocks */
 .highlight {
     margin-bottom: 1em;
 }
 
+/* Don't let these be bigger than their container */
 img, iframe {
     max-width: 100%
+}
+
+/* The white background used by Superhero stood out too much;
+   this color is similar to the background but darker */
+code {
+    background-color: #192d43;
+}
+
+/* Custom CSS class for figures or whatever */
+.center {
+    text-align: center;
 }
