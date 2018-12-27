@@ -39,10 +39,10 @@ pygmentsOptions = "linenos=true"
     home_navbar_link = "Home"
 
     # name of the link to the blog page
-    blog_navbar_link = "Blog"
+    blog_navbar_link = "Archive"
 
     # name of the header used in the post list page
-    posts_list_header = "Posts"
+    posts_list_header = "Blog Archive"
 
     # used date format
     date_format = 'January 2, 2006'
