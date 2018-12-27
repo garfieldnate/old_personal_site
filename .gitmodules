@@ -1,3 +1,7 @@
 [submodule "themes/hugo-multi-bootswatch"]
 	path = themes/hugo-multi-bootswatch
 	url = https://github.com/mpas/hugo-multi-bootswatch.git
+[submodule "public"]
+	path = public
+	url = git@github.com:garfieldnate/garfieldnate.github.io.git
+	branch = master
