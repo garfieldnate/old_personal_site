@@ -10,7 +10,6 @@ categories:
 - calendars
 date: 2015-10-25T19:23:49Z
 title: My Dream Planner, Come True! (Almost)
-url: /2015/10/25/my-dream-planner-come-true-almost/
 ---
 
 I say almost because I haven't printed it yet. But I have a [PDF](https://github.com/garfieldnate/Personal-Planner/releases)! 

@@ -10,7 +10,6 @@ categories:
 comments: true
 date: 2015-01-06T20:20:34Z
 title: 'My New Toy: Algomation'
-url: /2015/01/06/my-new-toy-algomation/
 ---
 
 Lately I've been losing sleep trying to understand an algorithm I read about in an [academic publication](http://www.inf.upol.cz/trnecka/fka/addintent.pdf). Part of the problem was that the [application](https://en.wikipedia.org/wiki/Analogical_modeling) I was applying it to required a sort of reversal, which was confusing. But a bigger part of the problem was that I just couldn't "see" it. I'd lay in bed, trying to imagine working with ping-pong balls on a string, or marbles on fishing line, or anything I could really get my "mind's hands" on.

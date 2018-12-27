@@ -11,7 +11,6 @@ categories:
 comments: true
 date: 2014-07-06T14:46:39Z
 title: Using Octopress- One More Thing
-url: /2014/07/06/using-octopress-one-more-thing/
 ---
 
 "Aiiiiyaaaa! Jacky! You did not install Ruuuubyyy. You need that to write your blog."

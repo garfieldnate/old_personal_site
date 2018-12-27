@@ -8,7 +8,6 @@ categories:
 comments: true
 date: 2013-01-27T00:00:00Z
 title: When not to use Perl's Implicit close; Suffering from Buffering
-url: /2013/01/27/when-not-to-use-perls-implicit-close/
 ---
 
 This post is a quick note on a bug I had difficulty tracking down.

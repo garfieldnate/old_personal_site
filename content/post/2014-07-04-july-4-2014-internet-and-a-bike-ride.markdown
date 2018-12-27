@@ -19,7 +19,6 @@ categories:
 comments: true
 date: 2014-07-04T19:08:46Z
 title: 'July 4, 2014: Internet and a Bike Ride'
-url: /2014/07/04/july-4-2014-internet-and-a-bike-ride/
 ---
 
 Maybe I'll manage to keep a somewhat OK journal if I write it on my blog...

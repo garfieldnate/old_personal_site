@@ -6,7 +6,6 @@ categories:
 comments: true
 date: 2013-04-07T00:00:00Z
 title: Running Perl with Sublime Text 2
-url: /2013/04/07/running-perl-with-sublime-text-2/
 ---
 
 I've been having fun trying out [Sublime Text](http://www.sublimetext.com/). It's pretty, fast, and extremely extensible.

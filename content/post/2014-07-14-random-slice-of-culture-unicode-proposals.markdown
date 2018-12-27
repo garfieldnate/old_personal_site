@@ -3,7 +3,6 @@ categories: null
 comments: true
 date: 2014-07-14T20:35:28Z
 title: 'Random Slice of Culture: Unicode Proposals'
-url: /2014/07/14/random-slice-of-culture-unicode-proposals/
 ---
 
 So a couple of weeks ago I had a casual use for [hentaigana](https://en.wikipedia.org/wiki/Hentaigana) and went looking to see if there were Unicode code points. Alas, there were none, but through Wikipedia I found that there was a [proposal](http://std.dkuug.dk/jtc1/sc2/wg2/docs/n3698.pdf) to include it. The proposal document includes relevant uses such as transcribing old documents, restaurant names and documents on calligraphy. Unfortunately the proposal hasn't been accepted yet, but it did lead to an interesting discovery.

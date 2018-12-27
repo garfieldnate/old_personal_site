@@ -13,7 +13,6 @@ categories:
 comments: true
 date: 2013-08-27T00:00:00Z
 title: Packaging XML::LibXML with PAR Packer on Windows
-url: /2013/08/27/packaging-xmllibxml-with-par-packer-on/
 ---
 
 PAR Packer is an excellent utility for delivering your Perl scripts as standalone executables. A standalone executable is highly desired in, for example, a corporate environment where everyone needs a program you wrote but you can't expect anyone to learn how to run Perl programs.

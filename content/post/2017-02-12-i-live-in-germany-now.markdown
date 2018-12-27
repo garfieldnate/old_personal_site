@@ -6,7 +6,6 @@ categories:
 - travel
 date: 2017-02-12T13:30:00Z
 title: I Live in Germany Now
-url: /2017/02/12/i-live-in-germany-now/
 ---
 
 As of three and a half months ago, my wife and I live in Düsseldorf, Germany! This has been a whirlwind for us, and I have experienced emotional highs and lows as I adjust to a new (better) job and sometimes pine away for Japan.

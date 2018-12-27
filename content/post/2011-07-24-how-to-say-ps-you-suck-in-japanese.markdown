@@ -4,7 +4,6 @@ categories:
 comments: true
 date: 2011-07-24T00:00:00Z
 title: How to say "P.S. You Suck" in Japanese
-url: /2011/07/24/how-to-say-ps-you-suck-in-japanese/
 ---
 
 This post will focus on two very interesting vocabulary items in Japanese; I call them "p.s. you suck" suffixes, though I'm sure there is a better word to describe them.

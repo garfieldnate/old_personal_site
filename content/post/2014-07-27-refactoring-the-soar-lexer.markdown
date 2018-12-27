@@ -7,7 +7,6 @@ categories:
 comments: true
 date: 2014-07-27T19:51:53Z
 title: Refactoring the Soar Lexer
-url: /2014/07/27/refactoring-the-soar-lexer/
 ---
 
 After my [last writeup](blog/2014/7/13/code-reading-the-soar-parser) on how [Soar](https://github.com/SoarGroup/Soar) parses Soar code, I decided to dive in and try and refactor it, starting with the lexer (and here's the resulting [PR](https://github.com/SoarGroup/Soar/pull/178)). I haven't worked with C/C++ in a while, and a good part of the code I changed was close to my age, so it was an interesting learning experience for me. 

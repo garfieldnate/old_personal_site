@@ -9,7 +9,6 @@ categories:
 comments: true
 date: 2012-06-29T00:00:00Z
 title: Graphing grammar parses from CMU Sphinx 4
-url: /2012/06/29/graphing-grammar-parses-from-cmu-sphinx/
 ---
 
 CMU Sphinx comes with some neat grammar parsing stuff that I never knew about. It uses JSGF (as detailed [here](http://cmusphinx.sourceforge.net/sphinx4/javadoc/edu/cmu/sphinx/jsgf/JSGFGrammar.html)) and comes with several demos, showing how to use a basic grammar, arc weights, tags, and even getting a [javascript representation](http://cmusphinx.sourceforge.net/sphinx4/src/apps/edu/cmu/sphinx/demo/jsapi/tags/README.html) of the final parse! At work I've been needing to do some custom processing of the grammar output, but it was more conceptually difficult than I'd planned. So after figuring out how to traverse a parse tree, I decided to write a little application to print out the parse of a given sentence. The eclipse project for it can be found [here](https://sites.google.com/site/complingfiles/files/ParsePrinter.zip?attredirects=0&amp;d=1).

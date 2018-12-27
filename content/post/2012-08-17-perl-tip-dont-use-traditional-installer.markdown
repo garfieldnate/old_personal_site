@@ -8,7 +8,6 @@ categories:
 comments: true
 date: 2012-08-17T00:00:00Z
 title: 'Perl Tip: Don''t Use a Makefile for Your Module'
-url: /2012/08/17/perl-tip-dont-use-traditional-installer/
 ---
 
 During my internship at [SoarTech](http://www.soartech.com/), I got a chance to learn a lot more about creating Perl modules. I put together a package of scripts for converting old file formats for speech recognition grammars, and I thought it worked beautifully. Of course, to start my module I used the classic tool h2xs:

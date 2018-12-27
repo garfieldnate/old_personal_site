@@ -8,7 +8,6 @@ categories:
 comments: true
 date: 2013-04-15T00:00:00Z
 title: The Extended Euclidian Algorithm in Perl
-url: /2013/04/15/the-extended-euclidian-algorithm-in-perl/
 ---
 
 This week I learned about the extended Euclidian algorithm for finding a linear combination of two numbers that yields their GCD. For example, the GCD of 213 and 171 is 3, and -4*213 + 5*171 = 3. This algorithm is important in the [RSA](http://en.wikipedia.org/wiki/RSA_(algorithm)) encryption scheme.

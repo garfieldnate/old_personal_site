@@ -11,7 +11,6 @@ author: Niel Postman
 ref: http://www.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf
 type: link
 title: Five Things We Need to Know About Technological Change
-url: /2014/08/10/five-things-we-need-to-know-about-technological-change/
 ---
 
 ### [Niel Postman: Five Things We Need to Know About Technological Change](http://www.cs.ucdavis.edu/~rogaway/classes/188/materials/postman.pdf)

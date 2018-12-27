@@ -15,7 +15,6 @@ categories:
 comments: true
 date: 2014-09-07T21:59:33Z
 title: Yotchare!
-url: /2014/09/07/yotchare/
 ---
 
 I haven't written as much lately as I should have, so here are some things that happened in August.

@@ -12,7 +12,6 @@ categories:
 comments: true
 date: 2013-01-20T00:00:00Z
 title: Testing Perl Distributions with Test Subdirectories
-url: /2013/01/20/testing-perl-distributions-with-test/
 ---
 
 Normally I run my test suites with the prove utility:

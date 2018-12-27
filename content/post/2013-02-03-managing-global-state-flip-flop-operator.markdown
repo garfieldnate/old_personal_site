@@ -9,7 +9,6 @@ categories:
 comments: true
 date: 2013-02-03T00:00:00Z
 title: 'Managing Global State: the Flip-Flop Operator'
-url: /2013/02/03/managing-global-state-flip-flop-operator/
 ---
 
 Today I was faced with another mysterious failing test while writing a test suite for some legacy code. I knew it had to be a problem with persisting state because this particular test only failed when processing a particular data set with the same object which was just used to process another set.

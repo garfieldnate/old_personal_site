@@ -7,7 +7,6 @@ categories:
 comments: true
 date: 2014-07-12T13:04:54Z
 title: 'Code Reading: The Soar Parser'
-url: /2014/07/12/code-reading-the-soar-parser/
 ---
 
 I've thought for a while that it would be fun to write a series of "code reading" posts, where I try to read and understand how some large program works and explain my findings.

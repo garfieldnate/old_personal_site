@@ -8,7 +8,6 @@ categories:
 comments: true
 date: 2014-11-09T13:59:26Z
 title: The Oh So Exotic Grocery List
-url: /2014/11/09/the-oh-so-exotic-grocery-list/
 ---
 
 Since Erika is working and I am not, I try to take care of the apartment by shopping for food, cleaning and cooking as much as possible. I wrote out a list of everything that was needed and headed to Hallow's to do the week's shopping.

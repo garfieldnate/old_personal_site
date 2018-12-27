@@ -8,7 +8,6 @@ comments: true
 date: 2011-12-30T00:00:00Z
 title: 'Review: The Development of Language Processing Strategies: A Cross-linguistic
   Study Between Japanese and English'
-url: /2011/12/30/review-development-of-language/
 ---
 
 <a href="http://www.goodreads.com/book/show/3945971-the-development-of-language-processing-strategies" style="float: left; padding-right: 20px;">

@@ -6,7 +6,6 @@ categories:
 comments: true
 date: 2011-11-06T00:00:00Z
 title: List of Japanese NLP tools
-url: /2011/11/06/list-of-japanese-nlp-tools/
 ---
 
 I haven't tried out all of these so I don't have comments for everything, but hopefully this list will come in useful for someone.

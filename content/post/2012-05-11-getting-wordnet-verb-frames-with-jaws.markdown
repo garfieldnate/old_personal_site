@@ -6,7 +6,6 @@ categories:
 comments: true
 date: 2012-05-11T00:00:00Z
 title: Getting WordNet Verb Frames with JAWS
-url: /2012/05/11/getting-wordnet-verb-frames-with-jaws/
 ---
 
 I love using JAWS to access WordNet. It has a rather extensive API, runs quickly, and doesn't require too much configuration. All you have to do is[ download the Jaws binary jar](http://lyle.smu.edu/~tspell/jaws/index.html) and [WordNet](http://wordnet.princeton.edu/wordnet/download/), and then specify to JAWS where the WordNet files are (I will demonstrate this later).

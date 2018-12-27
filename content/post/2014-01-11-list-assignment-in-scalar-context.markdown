@@ -10,7 +10,6 @@ categories:
 comments: true
 date: 2014-01-11T00:00:00Z
 title: List Assignment in Scalar Context
-url: /2014/01/11/list-assignment-in-scalar-context/
 ---
 
 (Cross-posted on [blogs.perl.org](http://blogs.perl.org/users/nate_glenn/2014/01/list-assignment-in-scalar-context.html))

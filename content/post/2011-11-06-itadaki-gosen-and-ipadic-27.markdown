@@ -7,7 +7,6 @@ categories:
 comments: true
 date: 2011-11-06T00:00:00Z
 title: Itadaki GoSen and IPADIC 2.7
-url: /2011/11/06/itadaki-gosen-and-ipadic-27/
 ---
 
 **Update3: I've forked the Itadaki project on [GitHub](https://github.com/garfieldnate/Itadaki) to keep track of it better.**
