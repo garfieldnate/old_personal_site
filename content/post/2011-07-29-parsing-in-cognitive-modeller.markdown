@@ -27,7 +27,7 @@ They also tinker around with the hardware to see how each piece affects the soft
 
 After years of studying the Mac, they attempt to create machines which imitate its functions. One person creates a crude screen, another makes some memory with pathetic storage size, and others draft intricate blueprints explaining how the programs function within the machine. They don't all agree on the underlying mechanisms, so they split and pursue different theories. The end product is several schools of research attempting to build the machine by studying different aspects of it. Will they ever make an actual Macintosh themselves? Not likely, with 1950s technology. How can they even tell if they've gotten it right? They can experiment with their own machine and see if it acts somewhat like the Mac.
 
-{{< figure class="center" src="/images/content_images/hardware_v_software.png" title="The scientists study the hardware and software inside of the futuristic Mac" >}}
+{{< figure class="center" src="/images/content_images/hardware_v_software.png" title="The scientists study the hardware and software inside of the futuristic Mac" alt="Left: the inside of a computer with capacitors and other electronic parts showing. Right: the Mac desktop animating the opening or closing of a application window.">}}
 
 Now, what does all of this have to do with cognitive modeling?
 
@@ -39,7 +39,7 @@ Wait, what *is* cognitive modeling? To explain that, we first need a few definit
 
 Cognitive science attempt to explain cognition, or human intelligence, by discovering (or theorizing about) the processes and structures underlying it at the lowest level, analyzing the brain as if it were a computer. We study the mind in the same way those scientists studied the Mac: either by observing the actual brain (EEG, fMRI) or observing behavior (eye tracking, reaction time), or in some cases even observing what happens when certain parts [break](http://en.wikipedia.org/wiki/Phineas_Gage) or are damaged by [sickness](http://en.wikipedia.org/wiki/Aphasia). They've found some interesting things. For example, look at the Wikipedia article to see what what we know about different types of [memory](http://en.wikipedia.org/wiki/Memory).
 
-{{< figure class="center" src="/images/content_images/biology_v_cognition.png" title="Cognitive scientists study and imitate the physical and behavioral aspects of the human mind" >}}
+{{< figure class="center" src="/images/content_images/biology_v_cognition.png" title="Cognitive scientists study and imitate the physical and behavioral aspects of the human mind" alt="Left: Brain imaging showing active parts of the brain. Right: A chart illustrating the results of an experiment measuring the response times of a human under different stimuli." >}}
 
 Data from these types of experiments contribute to our understanding of the mind, but we still do not completely understand the complex processes that make humans what they are. We can't try our hand at building a human, like the scientists did the Mac, either. Besides technological concerns, there are also ethical ones. Instead, scientists create computer models to simulate human activity. Although there have been many models which simulate single aspects of cognition such as hand-eye coordination or reading, general cognitive frameworks, which model human behavior overall, have also been created.
 
