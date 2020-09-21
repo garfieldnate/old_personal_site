@@ -2,7 +2,7 @@
 
 This blog is built using [Hugo](https://gohugo.io/getting-started/quick-start/), currently version 0.52.
 
-The theme used is a forked branch of [hugo-multi-bootswatch](https://github.com/garfieldnate/hugo-multi-bootswatch/tree/patch_img_iframe_maxwidth). Hopefully this will be merged upstream so I don't have to maintain it.
+The theme used is [hugo-multi-bootswatch](https://github.com/mpas/hugo-multi-bootswatch/tree/patch_img_iframe_maxwidth).
 
 To develop the site locally while auto-reloading in the browser:
 

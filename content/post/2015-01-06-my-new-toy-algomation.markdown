@@ -20,7 +20,7 @@ It's called [Algomation](http://www.algomation.com/). Lots of algorithms are ava
 
 Once you're registered, you can create new algorithms or fork from others' creations. Here's mine:
 
-<iframe allowfullscreen src="http://www.algomation.com/embeddedplayer?embedded=true&algorithm=54a68d7ea7f8e70200042664" width="900" height="556" seamless="seamless" frameborder="0" style="border:1px solid lightgray" scrolling="no"></iframe>
+<iframe allowfullscreen title="Animation of the addintent algorithm shown on Algomation" src="http://www.algomation.com/embeddedplayer?embedded=true&algorithm=54a68d7ea7f8e70200042664" width="900" height="556" seamless="seamless" frameborder="0" style="border:1px solid lightgray" scrolling="no"></iframe>
 
 Granted, this is a little rough around the edges (and I have used the heck out of the feedback form); however, this is way better than imagining ping-pong balls on a string, and now I *really* understand how AddIntent works. The service is still young, and I have high hopes for this becoming an expansive library of algorithm visualizations.
 
