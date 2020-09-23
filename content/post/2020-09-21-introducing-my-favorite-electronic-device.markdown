@@ -31,7 +31,7 @@ usb for uploading CD-based dictionaries. Only works on Japanese windows, and pai
     - mixed kanji/kana search for kanji compounds
     - copy/jump from input line (in case it's not found in current dictionary, look it up in another without having to retype/write)
     - proper jump with pronunciation-annotated words: 漢〔かん〕字
-    - go back to non-color screen; just be fast!
+    - go back to non-color screen; just be fast! I wish mirasol or ClearInk were options...
     - upload tango-cho to computer
     - up and down to scroll through history with completion like in the shell
 
@@ -106,4 +106,34 @@ Follow up with ThaiDict about how amazing it is.
 
 I want to reverse it; I want to rebuild it! I want to write everything in Rust and employ special string compression algorithms and make the perfect UI and support new languages and add Jim Breen's dictionaries and make it easy to upload for everyone! I want the perfect dictionary. (I wanted to use the Mirasol screen but that's out; e-ink is too slow.). I want to understand how to do this, but I don't. I opened the thing to take a look and I'm pretty overwhelmed, plus the processors are blobbed so I can't see what they are. The screen is higher resolution than anything available today (no battery-sucking backlit LCDs, thank you very much!). I guess there's libexword already, and it supports my model. I have to start somewhere! 
 
-I naively thought maybe this could be like an Arduino project, but that was shot down pretty quick. My theory is that the OS is largely character based, and a separate processor pulls the fonts from memory and sends the pixels to the screen, plus supports fast scrolling and stuff. 
+I naively thought maybe this could be like an Arduino project, but that was shot down pretty quick. My theory is that the OS is largely character based, and a separate processor pulls the fonts from memory and sends the pixels to the screen, plus supports fast scrolling and stuff.
+
+BTW kudos to Casio for leaving the product page up for this long! Just in case, I made sure it was saved in the internet archive...
+
+***
+
+Electonic subsystems
+
+* OS
+	- dictionary display and searching
+	- menu navigation
+		- navigation buttons
+	- memory
+* Screen 1
+	- LED backlight
+* Screen 2
+	- touch
+* Audio
+	- speakers
+	- headphone jack
+	- switch between outputs
+	- volume adjustment
+	- MP3 decoding stack
+* power
+	- batteries
+	- detect low batteries
+* keyboard
+* other switches and actuators
+	- piezo
+	- reset button
+	- hidden/internal button pads
