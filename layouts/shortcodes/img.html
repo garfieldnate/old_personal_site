@@ -1,0 +1,4 @@
+{{ $image := .Page.Resources.GetMatch (printf "*%s*" (.Get 0)) }}
+<div style="text-align: center;">
+    <img style="max-width: 300px" src="{{ $image.RelPermalink }}" license="CC-BY-SA Nathan Glenn" class="w-96">
+</div>
