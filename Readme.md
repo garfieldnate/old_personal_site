@@ -30,5 +30,5 @@ If you need to change a piece of layout that is handled by the theme, just copy 
 
 ## License
 
-The contents of this site are licensed under 
+The contents of this site are licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
